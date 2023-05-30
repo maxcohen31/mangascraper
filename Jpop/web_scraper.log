@@ -1,0 +1,8 @@
+30-May-23 1215 - HTTP Request: GET https://j-pop.it/it/catalog/category/view/id/696/s/fumetti/?p=1?product_list_dir=asc&product_list_order=name "HTTP/1.1 200 OK"
+30-May-23 1215 - csv file successfully created
+30-May-23 1215 - HTTP Request: GET https://j-pop.it/it/catalog/category/view/id/696/s/fumetti/?p=2?product_list_dir=asc&product_list_order=name "HTTP/1.1 200 OK"
+30-May-23 1215 - csv file successfully created
+30-May-23 1216 - HTTP Request: GET https://j-pop.it/it/catalog/category/view/id/696/s/fumetti/?p=3?product_list_dir=asc&product_list_order=name "HTTP/1.1 200 OK"
+30-May-23 1216 - csv file successfully created
+30-May-23 1216 - HTTP Request: GET https://j-pop.it/it/catalog/category/view/id/696/s/fumetti/?p=4?product_list_dir=asc&product_list_order=name "HTTP/1.1 200 OK"
+30-May-23 1216 - csv file successfully created
